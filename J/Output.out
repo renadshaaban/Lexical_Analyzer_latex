@@ -1,0 +1,842 @@
+DOCUMENT CLASS : \documentclass{scrartcl}
+NEWLINE
+PACKAGE : \usepackage[utf8]{inputenc}
+NEWLINE
+NEWLINE
+NEWLINE
+NEWLINE
+ERROR Invalid input: \
+ERROR Invalid input: b
+ERROR Invalid input: e
+ERROR Invalid input: g
+ERROR Invalid input: i
+ERROR Invalid input: n
+ERROR Invalid input: {
+ERROR Invalid input: d
+ERROR Invalid input: o
+ERROR Invalid input: c
+ERROR Invalid input: u
+ERROR Invalid input: m
+ERROR Invalid input: e
+ERROR Invalid input: n
+ERROR Invalid input: t
+ERROR Invalid input: }
+NEWLINE
+ERROR Invalid input: \
+ERROR Invalid input: t
+ERROR Invalid input: i
+ERROR Invalid input: t
+ERROR Invalid input: l
+ERROR Invalid input: e
+ERROR Invalid input: {
+ERROR Invalid input: C
+ERROR Invalid input: o
+ERROR Invalid input: m
+ERROR Invalid input: p
+ERROR Invalid input: i
+ERROR Invalid input: l
+ERROR Invalid input: e
+ERROR Invalid input: r
+ERROR Invalid input: s
+ERROR Invalid input:  
+ERROR Invalid input: L
+ERROR Invalid input: a
+ERROR Invalid input: b
+ERROR Invalid input: ,
+ERROR Invalid input:  
+ERROR Invalid input: S
+ERROR Invalid input: p
+ERROR Invalid input: r
+ERROR Invalid input: i
+ERROR Invalid input: n
+ERROR Invalid input: g
+ERROR Invalid input:  
+ERROR Invalid input: 2
+ERROR Invalid input: 0
+ERROR Invalid input: 1
+ERROR Invalid input: 6
+ERROR Invalid input: }
+NEWLINE
+ERROR Invalid input: \
+ERROR Invalid input: s
+ERROR Invalid input: u
+ERROR Invalid input: b
+ERROR Invalid input: t
+ERROR Invalid input: i
+ERROR Invalid input: t
+ERROR Invalid input: l
+ERROR Invalid input: e
+ERROR Invalid input: {
+ERROR Invalid input: L
+ERROR Invalid input: a
+ERROR Invalid input: b
+ERROR Invalid input:  
+ERROR Invalid input: 1
+ERROR Invalid input:  
+ERROR Invalid input: T
+ERROR Invalid input: a
+ERROR Invalid input: s
+ERROR Invalid input: k
+ERROR Invalid input: }
+NEWLINE
+ERROR Invalid input: \
+ERROR Invalid input: d
+ERROR Invalid input: a
+ERROR Invalid input: t
+ERROR Invalid input: e
+ERROR Invalid input: {
+ERROR Invalid input: J
+ERROR Invalid input: a
+ERROR Invalid input: n
+ERROR Invalid input: u
+ERROR Invalid input: a
+ERROR Invalid input: r
+ERROR Invalid input: y
+ERROR Invalid input:  
+ERROR Invalid input: 2
+ERROR Invalid input: 0
+ERROR Invalid input: 1
+ERROR Invalid input: 6
+ERROR Invalid input: }
+NEWLINE
+ERROR Invalid input: \
+ERROR Invalid input: m
+ERROR Invalid input: a
+ERROR Invalid input: k
+ERROR Invalid input: e
+ERROR Invalid input: t
+ERROR Invalid input: i
+ERROR Invalid input: t
+ERROR Invalid input: l
+ERROR Invalid input: e
+NEWLINE
+NEWLINE
+ERROR Invalid input: \
+ERROR Invalid input: s
+ERROR Invalid input: e
+ERROR Invalid input: c
+ERROR Invalid input: t
+ERROR Invalid input: i
+ERROR Invalid input: o
+ERROR Invalid input: n
+ERROR Invalid input: {
+ERROR Invalid input: I
+ERROR Invalid input: n
+ERROR Invalid input: t
+ERROR Invalid input: r
+ERROR Invalid input: o
+ERROR Invalid input: d
+ERROR Invalid input: u
+ERROR Invalid input: c
+ERROR Invalid input: t
+ERROR Invalid input: i
+ERROR Invalid input: o
+ERROR Invalid input: n
+ERROR Invalid input: }
+NEWLINE
+ERROR Invalid input: T
+ERROR Invalid input: h
+ERROR Invalid input: e
+ERROR Invalid input:  
+ERROR Invalid input: A
+ERROR Invalid input: d
+ERROR Invalid input: v
+ERROR Invalid input: a
+ERROR Invalid input: n
+ERROR Invalid input: c
+ERROR Invalid input: e
+ERROR Invalid input: d
+ERROR Invalid input:  
+ERROR Invalid input: c
+ERROR Invalid input: o
+ERROR Invalid input: m
+ERROR Invalid input: p
+ERROR Invalid input: u
+ERROR Invalid input: t
+ERROR Invalid input: e
+ERROR Invalid input: r
+ERROR Invalid input:  
+ERROR Invalid input: l
+ERROR Invalid input: a
+ERROR Invalid input: b
+ERROR Invalid input:  
+ERROR Invalid input: c
+ERROR Invalid input: o
+ERROR Invalid input: u
+ERROR Invalid input: r
+ERROR Invalid input: s
+ERROR Invalid input: e
+ERROR Invalid input:  
+ERROR Invalid input: \
+ERROR Invalid input: t
+ERROR Invalid input: e
+ERROR Invalid input: x
+ERROR Invalid input: t
+ERROR Invalid input: b
+ERROR Invalid input: f
+ERROR Invalid input: {
+ERROR Invalid input: C
+ERROR Invalid input: S
+ERROR Invalid input: E
+ERROR Invalid input: N
+ERROR Invalid input:  
+ERROR Invalid input: 1
+ERROR Invalid input: 0
+ERROR Invalid input: 0
+ERROR Invalid input: 2
+ERROR Invalid input: }
+ERROR Invalid input:  
+ERROR Invalid input: p
+ERROR Invalid input: r
+ERROR Invalid input: o
+ERROR Invalid input: v
+ERROR Invalid input: i
+ERROR Invalid input: d
+ERROR Invalid input: e
+ERROR Invalid input: s
+ERROR Invalid input:  
+ERROR Invalid input: a
+ERROR Invalid input:  
+ERROR Invalid input: p
+ERROR Invalid input: r
+ERROR Invalid input: a
+ERROR Invalid input: c
+ERROR Invalid input: t
+ERROR Invalid input: i
+ERROR Invalid input: c
+ERROR Invalid input: a
+ERROR Invalid input: l
+ERROR Invalid input:  
+ERROR Invalid input: i
+ERROR Invalid input: n
+ERROR Invalid input: t
+ERROR Invalid input: r
+ERROR Invalid input: o
+ERROR Invalid input: d
+ERROR Invalid input: u
+ERROR Invalid input: c
+ERROR Invalid input: t
+ERROR Invalid input: i
+ERROR Invalid input: o
+ERROR Invalid input: n
+ERROR Invalid input:  
+ERROR Invalid input: t
+ERROR Invalid input: o
+ERROR Invalid input:  
+ERROR Invalid input: t
+ERROR Invalid input: h
+ERROR Invalid input: e
+ERROR Invalid input:  
+ERROR Invalid input: i
+ERROR Invalid input: m
+ERROR Invalid input: p
+ERROR Invalid input: l
+ERROR Invalid input: e
+ERROR Invalid input: m
+ERROR Invalid input: e
+ERROR Invalid input: n
+ERROR Invalid input: t
+ERROR Invalid input: a
+ERROR Invalid input: t
+ERROR Invalid input: i
+ERROR Invalid input: o
+ERROR Invalid input: n
+ERROR Invalid input:  
+ERROR Invalid input: o
+ERROR Invalid input: f
+ERROR Invalid input:  
+ERROR Invalid input: c
+ERROR Invalid input: o
+ERROR Invalid input: m
+ERROR Invalid input: p
+ERROR Invalid input: i
+ERROR Invalid input: l
+ERROR Invalid input: e
+ERROR Invalid input: r
+ERROR Invalid input: s
+ERROR Invalid input: .
+ERROR Invalid input:  
+ERROR Invalid input: T
+ERROR Invalid input: h
+ERROR Invalid input: e
+ERROR Invalid input:  
+ERROR Invalid input: c
+ERROR Invalid input: o
+ERROR Invalid input: u
+ERROR Invalid input: r
+ERROR Invalid input: s
+ERROR Invalid input: e
+ERROR Invalid input:  
+ERROR Invalid input: i
+ERROR Invalid input: s
+ERROR Invalid input:  
+ERROR Invalid input: c
+ERROR Invalid input: a
+ERROR Invalid input: r
+ERROR Invalid input: r
+ERROR Invalid input: i
+ERROR Invalid input: e
+ERROR Invalid input: d
+ERROR Invalid input:  
+ERROR Invalid input: o
+ERROR Invalid input: u
+ERROR Invalid input: t
+ERROR Invalid input:  
+ERROR Invalid input: a
+ERROR Invalid input: s
+ERROR Invalid input:  
+ERROR Invalid input: o
+ERROR Invalid input: n
+ERROR Invalid input: e
+ERROR Invalid input:  
+ERROR Invalid input: p
+ERROR Invalid input: r
+ERROR Invalid input: o
+ERROR Invalid input: g
+ERROR Invalid input: r
+ERROR Invalid input: a
+ERROR Invalid input: m
+ERROR Invalid input: m
+ERROR Invalid input: i
+ERROR Invalid input: n
+ERROR Invalid input: g
+ERROR Invalid input:  
+ERROR Invalid input: p
+ERROR Invalid input: r
+ERROR Invalid input: o
+ERROR Invalid input: j
+ERROR Invalid input: e
+ERROR Invalid input: c
+ERROR Invalid input: t
+ERROR Invalid input:  
+ERROR Invalid input: d
+ERROR Invalid input: i
+ERROR Invalid input: v
+ERROR Invalid input: i
+ERROR Invalid input: d
+ERROR Invalid input: e
+ERROR Invalid input: d
+ERROR Invalid input:  
+ERROR Invalid input: i
+ERROR Invalid input: n
+ERROR Invalid input: t
+ERROR Invalid input: o
+ERROR Invalid input:  
+ERROR Invalid input: t
+ERROR Invalid input: w
+ERROR Invalid input: o
+ERROR Invalid input:  
+ERROR Invalid input: m
+ERROR Invalid input: i
+ERROR Invalid input: l
+ERROR Invalid input: e
+ERROR Invalid input: s
+ERROR Invalid input: t
+ERROR Invalid input: o
+ERROR Invalid input: n
+ERROR Invalid input: e
+ERROR Invalid input: s
+ERROR Invalid input: .
+ERROR Invalid input:  
+ERROR Invalid input: E
+ERROR Invalid input: a
+ERROR Invalid input: c
+ERROR Invalid input: h
+ERROR Invalid input:  
+ERROR Invalid input: m
+ERROR Invalid input: i
+ERROR Invalid input: l
+ERROR Invalid input: e
+ERROR Invalid input: s
+ERROR Invalid input: t
+ERROR Invalid input: o
+ERROR Invalid input: n
+ERROR Invalid input: e
+ERROR Invalid input:  
+ERROR Invalid input: w
+ERROR Invalid input: i
+ERROR Invalid input: l
+ERROR Invalid input: l
+ERROR Invalid input:  
+ERROR Invalid input: c
+ERROR Invalid input: o
+ERROR Invalid input: n
+ERROR Invalid input: s
+ERROR Invalid input: i
+ERROR Invalid input: s
+ERROR Invalid input: t
+ERROR Invalid input:  
+ERROR Invalid input: o
+ERROR Invalid input: f
+ERROR Invalid input:  
+ERROR Invalid input: o
+ERROR Invalid input: n
+ERROR Invalid input: e
+ERROR Invalid input:  
+ERROR Invalid input: c
+ERROR Invalid input: o
+ERROR Invalid input: m
+ERROR Invalid input: p
+ERROR Invalid input: o
+ERROR Invalid input: n
+ERROR Invalid input: e
+ERROR Invalid input: n
+ERROR Invalid input: t
+ERROR Invalid input:  
+ERROR Invalid input: o
+ERROR Invalid input: f
+ERROR Invalid input:  
+ERROR Invalid input: t
+ERROR Invalid input: h
+ERROR Invalid input: e
+ERROR Invalid input:  
+ERROR Invalid input: c
+ERROR Invalid input: o
+ERROR Invalid input: m
+ERROR Invalid input: p
+ERROR Invalid input: i
+ERROR Invalid input: l
+ERROR Invalid input: e
+ERROR Invalid input: r
+ERROR Invalid input:  
+ERROR Invalid input: t
+ERROR Invalid input: h
+ERROR Invalid input: a
+ERROR Invalid input: t
+ERROR Invalid input:  
+ERROR Invalid input: w
+ERROR Invalid input: i
+ERROR Invalid input: l
+ERROR Invalid input: l
+ERROR Invalid input:  
+ERROR Invalid input: b
+ERROR Invalid input: e
+ERROR Invalid input:  
+ERROR Invalid input: b
+ERROR Invalid input: u
+ERROR Invalid input: i
+ERROR Invalid input: l
+ERROR Invalid input: t
+ERROR Invalid input:  
+ERROR Invalid input: d
+ERROR Invalid input: u
+ERROR Invalid input: r
+ERROR Invalid input: i
+ERROR Invalid input: n
+ERROR Invalid input: g
+ERROR Invalid input:  
+ERROR Invalid input: t
+ERROR Invalid input: h
+ERROR Invalid input: e
+ERROR Invalid input:  
+ERROR Invalid input: c
+ERROR Invalid input: o
+ERROR Invalid input: u
+ERROR Invalid input: r
+ERROR Invalid input: s
+ERROR Invalid input: e
+ERROR Invalid input: .
+ERROR Invalid input:  
+ERROR Invalid input: A
+ERROR Invalid input: t
+ERROR Invalid input:  
+ERROR Invalid input: t
+ERROR Invalid input: h
+ERROR Invalid input: e
+ERROR Invalid input:  
+ERROR Invalid input: e
+ERROR Invalid input: n
+ERROR Invalid input: d
+ERROR Invalid input:  
+ERROR Invalid input: o
+ERROR Invalid input: f
+ERROR Invalid input:  
+ERROR Invalid input: t
+ERROR Invalid input: h
+ERROR Invalid input: e
+ERROR Invalid input:  
+ERROR Invalid input: c
+ERROR Invalid input: o
+ERROR Invalid input: u
+ERROR Invalid input: r
+ERROR Invalid input: s
+ERROR Invalid input: e
+ERROR Invalid input: ,
+ERROR Invalid input:  
+ERROR Invalid input: t
+ERROR Invalid input: h
+ERROR Invalid input: e
+ERROR Invalid input:  
+ERROR Invalid input: i
+ERROR Invalid input: m
+ERROR Invalid input: p
+ERROR Invalid input: l
+ERROR Invalid input: e
+ERROR Invalid input: m
+ERROR Invalid input: e
+ERROR Invalid input: n
+ERROR Invalid input: t
+ERROR Invalid input: e
+ERROR Invalid input: d
+ERROR Invalid input:  
+ERROR Invalid input: c
+ERROR Invalid input: o
+ERROR Invalid input: m
+ERROR Invalid input: p
+ERROR Invalid input: i
+ERROR Invalid input: l
+ERROR Invalid input: e
+ERROR Invalid input: r
+ERROR Invalid input:  
+ERROR Invalid input: w
+ERROR Invalid input: i
+ERROR Invalid input: l
+ERROR Invalid input: l
+ERROR Invalid input:  
+ERROR Invalid input: b
+ERROR Invalid input: e
+ERROR Invalid input:  
+ERROR Invalid input: c
+ERROR Invalid input: a
+ERROR Invalid input: p
+ERROR Invalid input: a
+ERROR Invalid input: b
+ERROR Invalid input: l
+ERROR Invalid input: e
+ERROR Invalid input:  
+ERROR Invalid input: o
+ERROR Invalid input: f
+ERROR Invalid input:  
+ERROR Invalid input: g
+ERROR Invalid input: e
+ERROR Invalid input: n
+ERROR Invalid input: e
+ERROR Invalid input: r
+ERROR Invalid input: a
+ERROR Invalid input: t
+ERROR Invalid input: i
+ERROR Invalid input: n
+ERROR Invalid input: g
+ERROR Invalid input:  
+ERROR Invalid input: e
+ERROR Invalid input: x
+ERROR Invalid input: e
+ERROR Invalid input: c
+ERROR Invalid input: u
+ERROR Invalid input: t
+ERROR Invalid input: a
+ERROR Invalid input: b
+ERROR Invalid input: l
+ERROR Invalid input: e
+ERROR Invalid input:  
+ERROR Invalid input: c
+ERROR Invalid input: o
+ERROR Invalid input: d
+ERROR Invalid input: e
+ERROR Invalid input:  
+ERROR Invalid input: f
+ERROR Invalid input: o
+ERROR Invalid input: r
+ERROR Invalid input:  
+ERROR Invalid input: L
+ERROR Invalid input: a
+ERROR Invalid input: t
+ERROR Invalid input: e
+ERROR Invalid input: x
+ERROR Invalid input:  
+ERROR Invalid input: l
+ERROR Invalid input: a
+ERROR Invalid input: n
+ERROR Invalid input: g
+ERROR Invalid input: u
+ERROR Invalid input: a
+ERROR Invalid input: g
+ERROR Invalid input: e
+ERROR Invalid input: .
+NEWLINE
+NEWLINE
+NEWLINE
+NEWLINE
+ERROR Invalid input: \
+ERROR Invalid input: s
+ERROR Invalid input: e
+ERROR Invalid input: c
+ERROR Invalid input: t
+ERROR Invalid input: i
+ERROR Invalid input: o
+ERROR Invalid input: n
+ERROR Invalid input: {
+ERROR Invalid input: O
+ERROR Invalid input: b
+ERROR Invalid input: j
+ERROR Invalid input: e
+ERROR Invalid input: c
+ERROR Invalid input: t
+ERROR Invalid input: i
+ERROR Invalid input: v
+ERROR Invalid input: e
+ERROR Invalid input: s
+ERROR Invalid input: }
+NEWLINE
+ERROR Invalid input: B
+ERROR Invalid input: y
+ERROR Invalid input:  
+ERROR Invalid input: t
+ERROR Invalid input: h
+ERROR Invalid input: e
+ERROR Invalid input:  
+ERROR Invalid input: e
+ERROR Invalid input: n
+ERROR Invalid input: d
+ERROR Invalid input:  
+ERROR Invalid input: o
+ERROR Invalid input: f
+ERROR Invalid input:  
+ERROR Invalid input: h
+ERROR Invalid input: i
+ERROR Invalid input: s
+ERROR Invalid input:  
+ERROR Invalid input: c
+ERROR Invalid input: o
+ERROR Invalid input: u
+ERROR Invalid input: r
+ERROR Invalid input: s
+ERROR Invalid input: e
+ERROR Invalid input: ,
+ERROR Invalid input:  
+ERROR Invalid input: s
+ERROR Invalid input: t
+ERROR Invalid input: u
+ERROR Invalid input: d
+ERROR Invalid input: e
+ERROR Invalid input: n
+ERROR Invalid input: t
+ERROR Invalid input: s
+ERROR Invalid input:  
+ERROR Invalid input: w
+ERROR Invalid input: i
+ERROR Invalid input: l
+ERROR Invalid input: l
+ERROR Invalid input:  
+ERROR Invalid input: k
+ERROR Invalid input: n
+ERROR Invalid input: o
+ERROR Invalid input: w
+ERROR Invalid input:  
+ERROR Invalid input: h
+ERROR Invalid input: o
+ERROR Invalid input: w
+ERROR Invalid input:  
+ERROR Invalid input: t
+ERROR Invalid input: o
+ERROR Invalid input:  
+ERROR Invalid input: i
+ERROR Invalid input: m
+ERROR Invalid input: p
+ERROR Invalid input: l
+ERROR Invalid input: e
+ERROR Invalid input: m
+ERROR Invalid input: e
+ERROR Invalid input: n
+ERROR Invalid input: t
+ERROR Invalid input:  
+ERROR Invalid input: l
+ERROR Invalid input: e
+ERROR Invalid input: x
+ERROR Invalid input: i
+ERROR Invalid input: c
+ERROR Invalid input: a
+ERROR Invalid input: l
+ERROR Invalid input: ,
+ERROR Invalid input:  
+ERROR Invalid input: s
+ERROR Invalid input: y
+ERROR Invalid input: n
+ERROR Invalid input: t
+ERROR Invalid input: a
+ERROR Invalid input: c
+ERROR Invalid input: t
+ERROR Invalid input: i
+ERROR Invalid input: c
+ERROR Invalid input:  
+ERROR Invalid input: a
+ERROR Invalid input: n
+ERROR Invalid input: d
+ERROR Invalid input:  
+ERROR Invalid input: s
+ERROR Invalid input: e
+ERROR Invalid input: m
+ERROR Invalid input: a
+ERROR Invalid input: n
+ERROR Invalid input: t
+ERROR Invalid input: i
+ERROR Invalid input: c
+ERROR Invalid input:  
+ERROR Invalid input: a
+ERROR Invalid input: n
+ERROR Invalid input: a
+ERROR Invalid input: l
+ERROR Invalid input: y
+ERROR Invalid input: z
+ERROR Invalid input: e
+ERROR Invalid input: r
+ERROR Invalid input: s
+ERROR Invalid input: ,
+ERROR Invalid input:  
+ERROR Invalid input: m
+ERROR Invalid input: a
+ERROR Invalid input: n
+ERROR Invalid input: u
+ERROR Invalid input: a
+ERROR Invalid input: l
+ERROR Invalid input: l
+ERROR Invalid input: y
+ERROR Invalid input:  
+ERROR Invalid input: a
+ERROR Invalid input: n
+ERROR Invalid input: d
+ERROR Invalid input:  
+ERROR Invalid input: u
+ERROR Invalid input: s
+ERROR Invalid input: i
+ERROR Invalid input: n
+ERROR Invalid input: g
+ERROR Invalid input:  
+ERROR Invalid input: a
+ERROR Invalid input: u
+ERROR Invalid input: t
+ERROR Invalid input: o
+ERROR Invalid input: m
+ERROR Invalid input: a
+ERROR Invalid input: t
+ERROR Invalid input: i
+ERROR Invalid input: o
+ERROR Invalid input: n
+ERROR Invalid input:  
+ERROR Invalid input: t
+ERROR Invalid input: o
+ERROR Invalid input: o
+ERROR Invalid input: l
+ERROR Invalid input: s
+ERROR Invalid input:  
+ERROR Invalid input: s
+ERROR Invalid input: u
+ERROR Invalid input: c
+ERROR Invalid input: h
+ERROR Invalid input:  
+ERROR Invalid input: a
+ERROR Invalid input: s
+ERROR Invalid input:  
+ERROR Invalid input: J
+ERROR Invalid input: L
+ERROR Invalid input: e
+ERROR Invalid input: x
+ERROR Invalid input:  
+ERROR Invalid input: a
+ERROR Invalid input: n
+ERROR Invalid input: d
+ERROR Invalid input:  
+ERROR Invalid input: C
+ERROR Invalid input: U
+ERROR Invalid input: P
+ERROR Invalid input: .
+ERROR Invalid input:  
+ERROR Invalid input: T
+ERROR Invalid input: h
+ERROR Invalid input: e
+ERROR Invalid input: y
+ERROR Invalid input:  
+ERROR Invalid input: w
+ERROR Invalid input: i
+ERROR Invalid input: l
+ERROR Invalid input: l
+ERROR Invalid input:  
+ERROR Invalid input: a
+ERROR Invalid input: l
+ERROR Invalid input: s
+ERROR Invalid input: o
+ERROR Invalid input:  
+ERROR Invalid input: h
+ERROR Invalid input: a
+ERROR Invalid input: v
+ERROR Invalid input: e
+ERROR Invalid input:  
+ERROR Invalid input: l
+ERROR Invalid input: e
+ERROR Invalid input: a
+ERROR Invalid input: r
+ERROR Invalid input: n
+ERROR Invalid input: t
+ERROR Invalid input:  
+ERROR Invalid input: o
+ERROR Invalid input: r
+ERROR Invalid input:  
+ERROR Invalid input: t
+ERROR Invalid input: o
+ERROR Invalid input:  
+ERROR Invalid input: i
+ERROR Invalid input: m
+ERROR Invalid input: p
+ERROR Invalid input: l
+ERROR Invalid input: e
+ERROR Invalid input: m
+ERROR Invalid input: e
+ERROR Invalid input: n
+ERROR Invalid input: t
+ERROR Invalid input:  
+ERROR Invalid input: a
+ERROR Invalid input:  
+ERROR Invalid input: f
+ERROR Invalid input: u
+ERROR Invalid input: l
+ERROR Invalid input: l
+ERROR Invalid input:  
+ERROR Invalid input: c
+ERROR Invalid input: o
+ERROR Invalid input: m
+ERROR Invalid input: p
+ERROR Invalid input: i
+ERROR Invalid input: l
+ERROR Invalid input: e
+ERROR Invalid input: r
+ERROR Invalid input:  
+ERROR Invalid input: f
+ERROR Invalid input: o
+ERROR Invalid input: r
+ERROR Invalid input:  
+ERROR Invalid input: t
+ERROR Invalid input: h
+ERROR Invalid input: e
+ERROR Invalid input:  
+ERROR Invalid input: L
+ERROR Invalid input: a
+ERROR Invalid input: t
+ERROR Invalid input: e
+ERROR Invalid input: x
+ERROR Invalid input:  
+ERROR Invalid input: l
+ERROR Invalid input: a
+ERROR Invalid input: n
+ERROR Invalid input: g
+ERROR Invalid input: u
+ERROR Invalid input: a
+ERROR Invalid input: g
+ERROR Invalid input: e
+ERROR Invalid input: .
+NEWLINE
+ERROR Invalid input: \
+ERROR Invalid input: e
+ERROR Invalid input: n
+ERROR Invalid input: d
+ERROR Invalid input: {
+ERROR Invalid input: d
+ERROR Invalid input: o
+ERROR Invalid input: c
+ERROR Invalid input: u
+ERROR Invalid input: m
+ERROR Invalid input: e
+ERROR Invalid input: n
+ERROR Invalid input: t
+ERROR Invalid input: }
+Done tokenizing file: Sample.in
+Output written in file: Sample.out
